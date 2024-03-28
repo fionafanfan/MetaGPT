@@ -46,3 +46,6 @@ INVOICE_OCR_TABLE_PATH = DATA_PATH / "invoice_table"
 SKILL_DIRECTORY = PROJECT_ROOT / "metagpt/skills"
 
 MEM_TTL = 24 * 30 * 3600
+
+# 自己的配置
+MY_STATIC_ANSWER = PROJECT_ROOT / "my_metagpt/human_input_answer"

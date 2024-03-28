@@ -158,7 +158,7 @@ data.ms
 examples/nb/
 .chroma
 *~$*
-workspace/*
+workspace_bak2/*
 *.mmd
 tmp
 output.wav
